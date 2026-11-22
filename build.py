@@ -4,11 +4,13 @@ Usage: python3 build.py
 """
 import html
 import json
+import re
 from pathlib import Path
 from string import Template
 
 ROOT = Path(__file__).parent
 SITE = "https://carlodemarchis.it"
+TAGLINE = re.compile(r"[Pp]hotography beyond photography")
 
 
 def esc(s):
@@ -34,8 +36,13 @@ def main():
             f'<meta property="og:locale:alternate" content="{o["og_locale"]}">'
             for o in langs.values() if o is not s
         )
+        fields = {k: esc(v) for k, v in s.items()}
+        if code != "en":
+            # the art tagline stays in English on every page: mark it so screen readers switch voice
+            for k in ("intro", "art_desc"):
+                fields[k] = TAGLINE.sub(r'<span lang="en">\g<0></span>', fields[k])
         page = tpl.substitute(
-            {k: esc(v) for k, v in s.items()},
+            fields,
             url=SITE + s["path"],
             alternates=alternates,
             og_alternates=og_alts,
