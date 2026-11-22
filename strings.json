@@ -17,7 +17,9 @@
     "alt_agwas": "Carlo De Marchis speaking on stage, wearing a scarf",
     "alt_art": "Black and white image of an old computer and a chair in an empty Turin street",
     "alt_tec": "Torino e Cultura logo",
-    "place": "Turin, Italy"
+    "place": "Turin, Italy",
+    "neom_desc": "Independent music label for electronic and nu-jazz. Five artists, every release playable on the page.",
+    "alt_neom": "Grid of NEOM Records album covers"
   },
   "it": {
     "lang": "it",
@@ -37,7 +39,9 @@
     "alt_agwas": "Carlo De Marchis parla sul palco, con una sciarpa al collo",
     "alt_art": "Immagine in bianco e nero di un vecchio computer e di una sedia in una strada deserta di Torino",
     "alt_tec": "Logo di Torino e Cultura",
-    "place": "Torino, Italia"
+    "place": "Torino, Italia",
+    "neom_desc": "Etichetta musicale indipendente di elettronica e nu-jazz. Cinque artisti, ogni uscita ascoltabile sulla pagina.",
+    "alt_neom": "Griglia di copertine degli album di NEOM Records"
   },
   "fr": {
     "lang": "fr",
@@ -57,7 +61,9 @@
     "alt_agwas": "Carlo De Marchis prenant la parole sur scène, un foulard autour du cou",
     "alt_art": "Image en noir et blanc d’un vieil ordinateur et d’une chaise dans une rue déserte de Turin",
     "alt_tec": "Logo de Torino e Cultura",
-    "place": "Turin, Italie"
+    "place": "Turin, Italie",
+    "neom_desc": "Label de musique indépendant, électronique et nu-jazz. Cinq artistes, chaque sortie à écouter sur la page.",
+    "alt_neom": "Mosaïque de pochettes d’albums NEOM Records"
   },
   "de": {
     "lang": "de",
@@ -77,7 +83,9 @@
     "alt_agwas": "Carlo De Marchis spricht auf der Bühne, mit einem Schal um den Hals",
     "alt_art": "Schwarzweißbild eines alten Computers und eines Stuhls auf einer menschenleeren Straße in Turin",
     "alt_tec": "Logo von Torino e Cultura",
-    "place": "Turin, Italien"
+    "place": "Turin, Italien",
+    "neom_desc": "Unabhängiges Musiklabel für Electronic und Nu-Jazz. Fünf Acts, jede Veröffentlichung direkt auf der Seite anhörbar.",
+    "alt_neom": "Raster aus Albumcovern von NEOM Records"
   },
   "es": {
     "lang": "es",
@@ -97,7 +105,9 @@
     "alt_agwas": "Carlo De Marchis hablando en un escenario, con un fular al cuello",
     "alt_art": "Imagen en blanco y negro de un viejo ordenador y una silla en una calle desierta de Turín",
     "alt_tec": "Logotipo de Torino e Cultura",
-    "place": "Turín, Italia"
+    "place": "Turín, Italia",
+    "neom_desc": "Sello musical independiente de electrónica y nu-jazz. Cinco artistas, cada lanzamiento para escuchar en la página.",
+    "alt_neom": "Cuadrícula de portadas de discos de NEOM Records"
   },
   "ja": {
     "lang": "ja",
@@ -117,7 +127,9 @@
     "alt_agwas": "スカーフを巻いてステージで話すCarlo De Marchis",
     "alt_art": "トリノの人けのない通りに置かれた古いコンピューターと椅子のモノクロ画像",
     "alt_tec": "Torino e Culturaのロゴ",
-    "place": "イタリア・トリノ"
+    "place": "イタリア・トリノ",
+    "neom_desc": "エレクトロニックとニュージャズのインディペンデント・レーベル。5組のアーティストの全リリースをページ上で聴けます。",
+    "alt_neom": "NEOM Records のアルバムカバーの一覧"
   },
   "zh": {
     "lang": "zh-Hans",
@@ -137,7 +149,9 @@
     "alt_agwas": "Carlo De Marchis 系着丝巾在台上演讲",
     "alt_art": "黑白图像：都灵一条空无一人的街道上，一台旧电脑和一把椅子",
     "alt_tec": "Torino e Cultura 标志",
-    "place": "意大利都灵"
+    "place": "意大利都灵",
+    "neom_desc": "独立音乐厂牌，专注电子与 nu-jazz。五位艺人，每张作品都可在页面上直接收听。",
+    "alt_neom": "NEOM Records 专辑封面拼图"
   },
   "ar": {
     "lang": "ar",
@@ -157,6 +171,8 @@
     "alt_agwas": "يتحدث Carlo De Marchis على المسرح مرتديًا وشاحًا",
     "alt_art": "صورة بالأبيض والأسود لحاسوب قديم وكرسي في شارع خالٍ في تورينو",
     "alt_tec": "شعار Torino e Cultura",
-    "place": "تورينو، إيطاليا"
+    "place": "تورينو، إيطاليا",
+    "neom_desc": "علامة موسيقية مستقلة للموسيقى الإلكترونية والنو جاز. خمسة فنانين، وكل إصدار يمكن الاستماع إليه على الصفحة.",
+    "alt_neom": "شبكة من أغلفة ألبومات NEOM Records"
   }
 }
