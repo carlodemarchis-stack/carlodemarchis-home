@@ -19,7 +19,9 @@
     "alt_tec": "Torino e Cultura logo",
     "place": "Turin, Italy",
     "neom_desc": "Independent music label for electronic and nu-jazz. Five artists, every release playable on the page.",
-    "alt_neom": "Grid of NEOM Records album covers"
+    "alt_neom": "Grid of NEOM Records album covers",
+    "selectazzz_desc": "Selector sets of spiritual jazz, nu-jazz, funk, soul, house and world music. Mostly vinyl, now hybrid with digital versions of my own tracks.",
+    "alt_selectazzz": "Carlo De Marchis with headphones at the turntables, black and white"
   },
   "it": {
     "lang": "it",
@@ -41,7 +43,9 @@
     "alt_tec": "Logo di Torino e Cultura",
     "place": "Torino, Italia",
     "neom_desc": "Etichetta musicale indipendente di elettronica e nu-jazz. Cinque artisti, ogni uscita ascoltabile sulla pagina.",
-    "alt_neom": "Griglia di copertine degli album di NEOM Records"
+    "alt_neom": "Griglia di copertine degli album di NEOM Records",
+    "selectazzz_desc": "Selezioni di spiritual jazz, nu-jazz, funk, soul, house e world music. Soprattutto vinile, ora anche in modalità ibrida con le versioni digitali dei miei brani.",
+    "alt_selectazzz": "Carlo De Marchis in cuffia ai giradischi, in bianco e nero"
   },
   "fr": {
     "lang": "fr",
@@ -63,7 +67,9 @@
     "alt_tec": "Logo de Torino e Cultura",
     "place": "Turin, Italie",
     "neom_desc": "Label de musique indépendant, électronique et nu-jazz. Cinq artistes, chaque sortie à écouter sur la page.",
-    "alt_neom": "Mosaïque de pochettes d’albums NEOM Records"
+    "alt_neom": "Mosaïque de pochettes d’albums NEOM Records",
+    "selectazzz_desc": "Des sets de sélecteur : spiritual jazz, nu-jazz, funk, soul, house et musiques du monde. Surtout du vinyle, désormais en hybride avec les versions numériques de mes morceaux.",
+    "alt_selectazzz": "Carlo De Marchis au casque derrière les platines, en noir et blanc"
   },
   "de": {
     "lang": "de",
@@ -85,7 +91,9 @@
     "alt_tec": "Logo von Torino e Cultura",
     "place": "Turin, Italien",
     "neom_desc": "Unabhängiges Musiklabel für Electronic und Nu-Jazz. Fünf Acts, jede Veröffentlichung direkt auf der Seite anhörbar.",
-    "alt_neom": "Raster aus Albumcovern von NEOM Records"
+    "alt_neom": "Raster aus Albumcovern von NEOM Records",
+    "selectazzz_desc": "Selector-Sets mit Spiritual Jazz, Nu-Jazz, Funk, Soul, House und Weltmusik. Vor allem Vinyl, jetzt auch hybrid mit digitalen Versionen meiner eigenen Tracks.",
+    "alt_selectazzz": "Carlo De Marchis mit Kopfhörern an den Plattenspielern, schwarz-weiß"
   },
   "es": {
     "lang": "es",
@@ -107,7 +115,9 @@
     "alt_tec": "Logotipo de Torino e Cultura",
     "place": "Turín, Italia",
     "neom_desc": "Sello musical independiente de electrónica y nu-jazz. Cinco artistas, cada lanzamiento para escuchar en la página.",
-    "alt_neom": "Cuadrícula de portadas de discos de NEOM Records"
+    "alt_neom": "Cuadrícula de portadas de discos de NEOM Records",
+    "selectazzz_desc": "Sesiones de selector de spiritual jazz, nu-jazz, funk, soul, house y músicas del mundo. Sobre todo vinilo, ahora también en modo híbrido con versiones digitales de mis temas.",
+    "alt_selectazzz": "Carlo De Marchis con auriculares en los platos, en blanco y negro"
   },
   "ja": {
     "lang": "ja",
@@ -129,7 +139,9 @@
     "alt_tec": "Torino e Culturaのロゴ",
     "place": "イタリア・トリノ",
     "neom_desc": "エレクトロニックとニュージャズのインディペンデント・レーベル。5組のアーティストの全リリースをページ上で聴けます。",
-    "alt_neom": "NEOM Records のアルバムカバーの一覧"
+    "alt_neom": "NEOM Records のアルバムカバーの一覧",
+    "selectazzz_desc": "スピリチュアル・ジャズ、ニュージャズ、ファンク、ソウル、ハウス、ワールドミュージックのセレクターセット。基本はレコード、今は自作曲のデジタル版も交えたハイブリッドで。",
+    "alt_selectazzz": "ヘッドフォンをつけてターンテーブルに向かうカルロ・デ・マルキス（モノクロ）"
   },
   "zh": {
     "lang": "zh-Hans",
@@ -151,7 +163,9 @@
     "alt_tec": "Torino e Cultura 标志",
     "place": "意大利都灵",
     "neom_desc": "独立音乐厂牌，专注电子与 nu-jazz。五位艺人，每张作品都可在页面上直接收听。",
-    "alt_neom": "NEOM Records 专辑封面拼图"
+    "alt_neom": "NEOM Records 专辑封面拼图",
+    "selectazzz_desc": "灵性爵士、新爵士、放克、灵魂乐、浩室与世界音乐的选曲人现场。以黑胶为主，现在也以混合模式加入我自己作品的数字版本。",
+    "alt_selectazzz": "戴着耳机操作唱盘的卡洛·德马尔基斯，黑白照片"
   },
   "ar": {
     "lang": "ar",
@@ -173,6 +187,8 @@
     "alt_tec": "شعار Torino e Cultura",
     "place": "تورينو، إيطاليا",
     "neom_desc": "علامة موسيقية مستقلة للموسيقى الإلكترونية والنو جاز. خمسة فنانين، وكل إصدار يمكن الاستماع إليه على الصفحة.",
-    "alt_neom": "شبكة من أغلفة ألبومات NEOM Records"
+    "alt_neom": "شبكة من أغلفة ألبومات NEOM Records",
+    "selectazzz_desc": "جلسات اختيار موسيقي من السبيريتشوال جاز والنيو جاز والفانك والسول والهاوس وموسيقى العالم. أغلبها على الفينيل، والآن بأسلوب هجين مع نسخ رقمية من مقطوعاتي.",
+    "alt_selectazzz": "كارلو دي ماركيس بسماعات الرأس عند أجهزة الأسطوانات، بالأبيض والأسود"
   }
 }
